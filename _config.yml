@@ -105,8 +105,8 @@ author:
   name             : "Ethan Holdahl"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Visitng Assistant Professor at Williams College. Interest in Game Theory, Experiments, Behavioral, and Environmental Economics."
-  location         : "Irvine, California"
-  email            : "eholdahl@uci.edu"
+  location         : "Williamstown, Massachusetts"
+  email            : "eh18@williams.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
