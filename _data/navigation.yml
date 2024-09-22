@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /about_me/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Shiny!"
+    url: /shiny/
+  - title: "CV"
+    url: /files/CV.pdf
+
