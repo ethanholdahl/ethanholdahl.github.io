@@ -4,6 +4,21 @@ title: Teaching
 
 ---
 
+## Courses Taught at Williams College 
+
+<p style="font-size:24px; margin:0"><strong><i>Price and Allocation Theory</i>, EC 251.</strong></p>
+<p style="font-size:16px; margin:0"><b>Fall 2024</b>: In Person.
+<br></p>
+
+<p style="font-size:24px; margin:0"><strong><i>Games and Information</i>, EC 385.</strong></p>
+<p style="font-size:16px; margin:0"><b>Fall 2024</b>: In Person.
+<br></p>
+
+<p style="font-size:24px; margin:0"><strong><i>Principles of Microeconomics</i>, EC 110.</strong></p>
+<p style="font-size:16px; margin:0"><b>Spring 2025 (2 sections)</b>: In Person.
+<br></p>
+
+
 ## Independently Taught Courses at UO 
 
 <p style="font-size:24px; margin:0"><strong><i>Introduction to Game Theory</i>, EC 327.</strong></p>
