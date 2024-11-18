@@ -147,8 +147,8 @@ Games with multiple equilibria introduce the potential for populations to get st
 
 
 
-<p style="font-size:24px; margin:0"><strong><a href="https://ethanholdahl.com/files/InstitutionalScreening.pdf" style="color: darkgreen; text-decoration: none;">Institutional Screening and the Sustainability of Conditional Cooperation</a></strong></p><p style="font-size:16px;">with <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a></p>
-<p style="font-size:16px;"><em>Under Review</em></p>
+<p style="font-size:24px; margin:0"><strong><a href="https://ethanholdahl.com/files/InstitutionalScreening.pdf" style="color: darkgreen; text-decoration: none;">Institutional Screening and the Sustainability of Conditional Cooperation</a></strong></p><p style="font-size:16px;">with <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a>
+<br><em>Under Review</em></p>
 
 <button style = "font-size: 16px; border-radius: 24px; border: none; padding: 10px; background: darkblue; color: white" id = 'ScreeningBtn' onclick="reveal('ScreeningAbstract', 'ScreeningBtn')">Show Abstract</button>
 <button style = "font-size: 16px; border-radius: 24px; border: none; padding: 10px; background: purple; color: white" id = 'ScreeningGraphBtn' onclick="reveal('ScreeningGraph', 'ScreeningGraphBtn')">Show Graphs</button>
@@ -159,11 +159,9 @@ This paper studies a preference evolution model in which a population of agents 
 
 </p></div>
 
-<div id='ScreeningGraph' style = "display: none;">
-<a href = "InstitutionalScreening.pdf"><img src="https://ethanholdahl.com/assets/images/ScreeningImage.png" alt="Screening Graphs" style="width:100%;"></a></div>
+<div id='ScreeningGraph' style = "display: none;"><img src="https://ethanholdahl.com/assets/images/ScreeningImage.png" alt="Screening Graphs" style="width:100%;"></div>
 
 <p style="font-size:24px; margin:0"><strong><a href="https://ethanholdahl.com/files/TrustandAI.pdf" style="color: darkgreen; text-decoration: none;">The Role of AI in Trust: An Experimental Study</a></strong></p><p style="font-size:16px;">with <a href="https://www.tannerbivins.com" style="color: darkgreen; text-decoration: none">Tanner Bivins</a>, <a href="https://github.com/connortwiegand" style="color: darkgreen; text-decoration: none">Connor Wiegand</a>, and <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a></p>
-
 <p style="font-size:16px;"><em>Under Review</em></p>
 
 <button style = "font-size: 16px; border-radius: 24px; border: none; padding: 10px; background: darkblue; color: white" id = 'ScreeningBtn' onclick="reveal('TrustAIAbstract', 'TrustAIBtn')">Show Abstract</button>
@@ -187,7 +185,7 @@ development of trust.
 </p></div>
 
 <div id='TrustAIGraph' style = "display: none;">
-<img src="https://ethanholdahl.com/assets/images/TrustAI.png" alt="Screening Graphs" style="width:100%;"></a></div>
+<img src="https://ethanholdahl.com/assets/images/TrustAI.png" alt="Screening Graphs" style="width:100%;"></div>
 
 ## Works in Progress
 
