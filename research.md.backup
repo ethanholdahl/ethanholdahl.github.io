@@ -162,9 +162,36 @@ This paper studies a preference evolution model in which a population of agents 
 <div id='ScreeningGraph' style = "display: none;">
 <a href = "InstitutionalScreening.pdf"><img src="https://ethanholdahl.com/assets/images/ScreeningImage.png" alt="Screening Graphs" style="width:100%;"></a></div>
 
+<p style="font-size:24px; margin:0"><strong><a href="https://ethanholdahl.com/files/TrustandAI.pdf" style="color: darkgreen; text-decoration: none;">The Role of AI in Trust: An Experimental Study</a></strong></p><p style="font-size:16px;">with <a href="https://www.tannerbivins.com" style="color: darkgreen; text-decoration: none">Tanner Bivins</a>, <a href="https://github.com/connortwiegand" style="color: darkgreen; text-decoration: none">Connor Wiegand</a>, and <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a></p>
+
+<p style="font-size:16px;"><em>Under Review</em></p>
+
+<button style = "font-size: 16px; border-radius: 24px; border: none; padding: 10px; background: darkblue; color: white" id = 'ScreeningBtn' onclick="reveal('TrustAIAbstract', 'TrustAIBtn')">Show Abstract</button>
+<button style = "font-size: 16px; border-radius: 24px; border: none; padding: 10px; background: purple; color: white" id = 'TrustAIGraphBtn' onclick="reveal('TrustAIGraph', 'TrustAIGraphBtn')">Show Graphs</button>
+
+<div id='TrustAIAbstract' style = "display: none;"><p style="font-size:16px;">
+
+In this study, we experimentally explore the impact of AI as a supportive tool for players
+in a two-player trust game. The game begins with the trustee sending a message to the
+trustor. In certain scenarios, the trustee is aided by the large language model (LLM)
+ChatGPT in composing this message. In other scenarios, the trustor uses AI to interpret
+the message from the trustee, or both players may have access to AI assistance. Our
+findings indicate that when the trustee utilizes AI as a helper, it enhances cooperation
+with the trustor. Interestingly, this improvement in cooperation is not attributed to AI’s
+superior messaging skills. Instead, when the trustee has AI assistance, it may encourage
+the trustor to scrutinize the trustee’s message more closely. The detailed scrutiny by
+the trustor, and potentially the trustee’s awareness of this scrutiny, aligns the beliefs
+of the trustor and the trustee, thereby fostering an environment that encourages the
+development of trust.
+
+</p></div>
+
+<div id='TrustAIGraph' style = "display: none;">
+<a href = "TrustandAI.pdf"><img src="https://ethanholdahl.com/assets/images/TrustAI.png" alt="Screening Graphs" style="width:100%;"></a></div>
+
 ## Works in Progress
 
-<p style="font-size:24px; margin:0"><strong>The Role of AI in Trust: An Experimental Study</strong></p><p style="font-size:16px;">with <a href="https://www.tannerbivins.com" style="color: darkgreen; text-decoration: none">Tanner Bivins</a>, <a href="https://github.com/connortwiegand" style="color: darkgreen; text-decoration: none">Connor Wiegand</a>, and <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a></p>
+<p style="font-size:24px; margin:0"><strong>Mistake Driven Cycles</strong></p><p style="font-size:16px;">with <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a></p>
 
 
 <p style="font-size:24px; margin:0"><strong>Mistake Driven Cycles</strong></p><p style="font-size:16px;">with <a href="https://sites.google.com/site/jiabinwuecon" style="color: darkgreen; text-decoration: none">Jiabin Wu</a></p>
